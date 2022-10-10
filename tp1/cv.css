@@ -9,3 +9,14 @@
     margin-right: auto;
     padding: 0 10px;
 }
+.photo{
+    border-radius: 250px;
+    width: 250px; 
+    margin-left: 0;
+    margin-right: 0; 
+    padding:0;
+}
+
+#header{display: flex;
+    align-items: stretch;
+    justify-content: space-between;}
