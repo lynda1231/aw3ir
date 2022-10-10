@@ -1,0 +1,11 @@
+
+
+
+.container{
+    background-color:lightblue;
+    border-radius: 10px;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 10px;
+}
