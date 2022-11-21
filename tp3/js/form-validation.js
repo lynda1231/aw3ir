@@ -55,7 +55,7 @@ window.onload = function () {
         else {
             adresse = document.getElementById("Adresse").value;
             document.querySelector(".modal-title").textContent = "Bienvenue " + prenom;
-            document.querySelector(".modal-body").innerHTML = "Vous etes né le " + date + " " + `et vous habitez á 
+            document.querySelector(".modal-body").innerHTML = "Vous etes nés le " + date + " " + `et vous habitez á 
     <a href= 'https://maps.google.com/maps?q=${adresse}'> 
         <img style="max-width: 100%" src='https://maps.googleapis.com/maps/api/staticmap?markers=${adresse}&zoom=14&size=400x300&scale=2&key=AIzaSyAkmvI9DazzG9p77IShsz_Di7-5Qn7zkcg' > ${adresse}</a>`;
             myModal.show();
