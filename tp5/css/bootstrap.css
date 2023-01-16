@@ -12208,11 +12208,6 @@ fieldset:disabled .btn {
     display: none !important;
   }
 
-  P.blocktext {
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em
-  }
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
