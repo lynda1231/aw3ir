@@ -7,8 +7,9 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "c:\\Users\\Slash\\Documents\\GitHub\\aw3ir\\tp2\\index.html"
+            "name": "Launch Chrome against localhost",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
         }
     ]
 }
